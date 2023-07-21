@@ -1,6 +1,6 @@
 # FlappyBird
 
-**This project is created with the purpose of understanding how Flappy Bird is made and utilizing the concepts involved in developing Flappy Bird.**
+**This project is created for the desktop via Unity with the purpose of understanding how Flappy Bird is made and utilizing the concepts involved in developing Flappy Bird.**
 <br><br>
 **You can directly access all the assets related to Flappy Bird from the file named "GameAssets" above.**
 <br><br>
